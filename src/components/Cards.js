@@ -21,7 +21,7 @@ function Cards() {
             <CardItem
               src='images/women-cardigans.jpg'
               label='CARDIGANS'
-              path='/women/cardigans'
+              path='/women/cardigans2'
             />
             <div className="women_cards__item__title">
               WOMEN
